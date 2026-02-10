@@ -60,3 +60,24 @@ Standardization transforms features so that:
 - Standard Deviation = 1
 
 **Formula:**
+Z = (X - mean) / standard deviation
+
+
+
+This method is especially useful for:
+- Logistic Regression
+- Support Vector Machines (SVM)
+- K-Nearest Neighbors (KNN)
+- Neural Networks
+
+---
+
+### 🔹 Numerical Features Scaled
+- Age
+- Fare
+- SibSp
+- Parch
+
+Categorical features are excluded from scaling.
+
+---
